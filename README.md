@@ -30,8 +30,3 @@ Non sono richieste installazioni.
 3. Premi **Scatena il lancio** oppure la barra spaziatrice.
 
 
-
-## Autore
-
-Creato da **a3xp**.
-
