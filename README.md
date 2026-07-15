@@ -29,7 +29,7 @@ Non sono richieste installazioni.
 2. Apri `index.html` con un browser moderno.
 3. Premi **Scatena il lancio** oppure la barra spaziatrice.
 
-```
+
 
 ## Autore
 
